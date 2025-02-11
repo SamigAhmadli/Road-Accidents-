@@ -1,3 +1,26 @@
-"node_modules/" 
-".env" 
-"*.log" 
+# Ignore Excel temporary files
+*.tmp
+*.log
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Excel autosave files
+~$*
+
+# Ignore folder-specific temporary files
+*.xlk
+
+# Ignore IDE-specific files (if you use an IDE like VS Code)
+.vscode/
+
+# Ignore any local configuration files (if applicable)
+.env
+.settings.json
+
+# Ignore any large data files (if you have raw data files that shouldn't be shared)
+*.csv
+*.xlsx
+!road_accident_dashboard.xlsx
