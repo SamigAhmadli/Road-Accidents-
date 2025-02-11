@@ -1,5 +1,5 @@
 # Ignore Excel temporary files
-* .tmp
+*.tmp
 *.log
 *.bak
 
