@@ -8,7 +8,7 @@
 Thumbs.db
 
 # Ignore Excel autosave files
-~$*
+~$*.xlsx
 
 # Ignore folder-specific temporary files
 *.xlk
