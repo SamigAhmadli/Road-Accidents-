@@ -3,16 +3,16 @@
 ## Description
 This Excel project creates a dynamic dashboard to analyze road accident data for 2021 and 2022. It includes data cleaning, preprocessing, and visualization features such as pivot tables, charts, and interactive filters.
 
-Technologies Used
+## Technologies Used
 Excel: Used for data cleaning, preprocessing, analysis, and visualization.
 
-Problem Statement
+## Problem Statement
 We must analyze key indicators for road accident data to gain insights into road safety. Specifically, we want to calculate the following metrics:
 
-Total Casualties: The sum of all casualties in road accidents.
-Accident Severity: The distribution of accident severity levels (Fatal, Serious, Slight).
-Casualties by Vehicle Type: The number of casualties involving different vehicle types.
-Monthly and Yearly Trends: Trends in road accidents over months and years.
+- **Total Casualties**: The sum of all casualties in road accidents.
+-**Accident Severity**: The distribution of accident severity levels (Fatal, Serious, Slight).
+-**Casualties by Vehicle Type**: The number of casualties involving different vehicle types.
+-**Monthly and Yearly Trends**: Trends in road accidents over months and years.
 
 ## Features
 - **Data Cleaning**: Fix typos, filter data, and ensure consistency.
@@ -30,5 +30,54 @@ Monthly and Yearly Trends: Trends in road accidents over months and years.
 3. **Data Analysis**: Explore the `KPIs` sheet for pivot tables and calculations.
 4. **Dashboard**: Navigate to the `Dashboard` sheet to view visualizations and interact with filters.
 
+
+## Data Cleaning Process
+-**Identify and Filter Data**:
+Select the first column of your dataset.
+Go to the Home ribbon, click on Sort & Filter, and then select Filter.
+Filter the data to identify any wrong or missing values.
+
+-**Correct Typo Errors**:
+Select the severity column, and press Ctrl + F to open the Find and Replace dialog box.
+Replace "Fetal" with "Fatal".
+
+-**Verify Corrections**:
+Check the severity column to ensure all instances of "Fetal" has been corrected to "Fatal".
+
+## Data Preprocessing
+-**Add Month and Year Columns**:
+Insert new columns for Month and Year.
+Use the TEXT function to extract the month and year from the date.
+
+## Data Analysis and Visualization
+-**Create Pivot Tables**:
+Insert pivot tables to calculate total casualties, accident severity, and other metrics.
+
+-**Create Charts**:
+Insert donut charts, bar charts, and tree maps to visualize the data.
+
+## Visualization and Dashboard Building
+-**Create Donut Charts for Severity Levels**:
+Create and format donut charts for Fatal, Serious, and Slight severities.
+
+-**Add KPI Titles and Values**:
+Insert text boxes for KPI titles and link them to the corresponding values.
+
+-**Add Donut Charts to the Dashboard**:
+Copy the formatted donut charts to the dashboard sheet.
+
+-**Add Percentage Values to Donut Charts**:
+Insert and link text boxes for percentage values in the donut charts.
+
+-**Create Additional KPIs**:
+Create pivot tables and charts for vehicle types, road types, and other metrics.
+
+## Final Touches
+Please make sure all elements are properly aligned and formatted.
+Test the dashboard to make sure all filters and interactivity work as expected.
+
+## Road Accident Dashboard Insights
+## Overview
+Welcome to the Road Accident Dashboard! This dashboard provides an in-depth analysis of road accident data, helping us to track performance, understand accident patterns, and make data-driven decisions to improve road safety. Below, you'll find detailed insights into each key metric and visualization displayed on our dashboards.
 
 
