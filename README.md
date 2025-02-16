@@ -78,6 +78,17 @@ Test the dashboard to make sure all filters and interactivity work as expected.
 
 ## Road Accident Dashboard Insights
 ## Overview
-Welcome to the Road Accident Dashboard! This dashboard provides an in-depth analysis of road accident data, helping us to track performance, understand accident patterns, and make data-driven decisions to improve road safety. Below, you'll find detailed insights into each key metric and visualization displayed on our dashboards.
+Welcome to the Road Accident Dashboard! This dashboard provides an in-depth analysis of road accident data, helping us to track performance, understand accident patterns, and make data-driven decisions to improve road safety. Below, I've included detailed insights into each key metric and visualization displayed on our dashboards.
 
+
+## Total Casualties Overview
+
+## Description:
+This screenshot shows the total number of casualties: 417,883, calculated using Pivot Tables in Excel.
+
+![Screenshot 2025-02-16 085528](https://github.com/user-attachments/assets/9a314f2e-afa9-40b9-b7dd-4173f35eee33)
+
+## Insights:
+Highlights the scale of road accidents, emphasizing the need for safety measures.
+Pivot Tables enabled efficient data aggregation and analysis.
 
