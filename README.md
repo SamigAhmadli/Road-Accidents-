@@ -92,3 +92,26 @@ This screenshot shows the total number of casualties: 417,883, calculated using 
 Highlights the scale of road accidents, emphasizing the need for safety measures.
 Pivot Tables enabled efficient data aggregation and analysis.
 
+## Fatal Casualties KPI
+
+## Description
+Fatal Casualties: 7,135 (1.7% of total casualties).
+
+This KPI highlights the most severe road accidents, emphasizing the need for targeted safety measures.
+
+![Screenshot 2025-02-16 085606](https://github.com/user-attachments/assets/2d291456-380b-477a-bf65-ee15b94d2aed)
+
+## Calculation
+Used a Pivot Table to sum casualties by severity.
+
+Calculated the percentage of fatal casualties using:
+=Fatal_Casualties / (Fatal_Casualties + Non_Fatal_Casualties).
+
+Result: 1.7% of all casualties were fatal.
+
+## Insights
+Urgent Attention Needed: Fatal accidents, though a small percentage, are critical and require immediate intervention.
+
+Targeted Actions: Focus on high-risk areas, improve road signage, and enforce speed limits to reduce fatalities.
+
+
