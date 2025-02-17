@@ -458,6 +458,50 @@ By Location (Rural vs. Urban):
 
 Compare casualties in Rural vs. Urban areas for 2021 and 2022.
 
+## Total Casualties by Vehicle Type
+## Description
+This screenshot presents a visual representation of the total casualties categorized by different vehicle types. The data is displayed in a clear and concise manner, making it easy to interpret the impact of each vehicle type on overall casualties.
+
+![Screenshot 2025-02-16 090155](https://github.com/user-attachments/assets/8b31150e-9643-4d39-a45a-50221db853fe)
+
+## Insights:
+The vehicle type with the highest number of casualties is represented by the value 333,485, indicating a significant impact.
+
+Other vehicle types show varying levels of casualties, with the lowest being 1,032.
+
+This visualization helps in identifying which vehicle types may require more attention in terms of safety measures and regulations.
+
+## Navigation Icons
+## Description
+This screenshot showcases a set of navigation icons designed to enhance user interaction and provide quick access to various resources related to the project. Each icon serves a specific purpose, facilitating seamless navigation and access to additional information.
+
+![Screenshot 2025-02-16 090325](https://github.com/user-attachments/assets/18b16a0d-a6e1-4e74-8b67-3fdae40319f4)
+
+## Icon Functions:
+## Dashboard Icon:
+
+Function: Clicking on this icon redirects the user to the main dashboard.
+
+Purpose: Provides a quick return to the primary interface where key metrics and visualizations are displayed.
+
+## Data Analyst Sheet Icon:
+
+Function: This icon links directly to the data analyst sheet within the Excel workbook.
+
+Purpose: Allows users to access and review the raw data and detailed analysis performed in the Excel workbook.
+
+## Email Icon:
+
+Function: Clicking this icon opens the default email client with a pre-addressed email to the project contact.
+
+Purpose: Facilitates easy communication with the project team for inquiries or feedback.
+
+## Wikipedia Icon:
+
+Function: This icon redirects the user to the Wikipedia page on UK road accidents.
+
+Purpose: Provides additional context and background information on road accident statistics and trends in the UK.
+
 
 
 
